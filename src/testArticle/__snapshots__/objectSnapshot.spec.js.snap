@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`criando um snapshot de um objeto 1`] = `"{\\"id\\":1,\\"userName\\":\\"Andre\\",\\"access\\":true}"`;
